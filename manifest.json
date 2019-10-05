@@ -1,0 +1,6 @@
+{
+    "name": "Figma to react native component",
+    "api" : "1.0.0" ,
+    "main": "code.js",
+    "ui" : "ui.html"
+}

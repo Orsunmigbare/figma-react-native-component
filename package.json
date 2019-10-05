@@ -1,0 +1,23 @@
+{
+  "name": "figma-react-native-component",
+  "version": "1.0.0",
+  "description": "Converts Figma Selection To React Native Component",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orsunmigbare/figma-react-native-component.git"
+  },
+  "keywords": [
+    "Figma",
+    "React-Native"
+  ],
+  "author": "Gbare Oyekan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orsunmigbare/figma-react-native-component/issues"
+  },
+  "homepage": "https://github.com/Orsunmigbare/figma-react-native-component#readme"
+}
